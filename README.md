@@ -41,5 +41,14 @@ This dual-structure ensures efficient handling of upcoming payments while mainta
 6. **Check Funds:** Display total pending and paid amounts.  
 
 ---
+## 🖥️ Tech Stack
+- Language: **C++**  
+- Core Concepts: **Stack, Queue, Linked List, OOP**  
 
-## 📸 Sample Menu
+---
+
+## 📌 Future Enhancements
+- Add persistent storage (file/database) for transaction records  
+- Implement user authentication  
+- Build a GUI or web interface for real-world usability  
+
